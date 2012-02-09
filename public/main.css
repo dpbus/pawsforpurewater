@@ -1,0 +1,106 @@
+body {
+  font-family: 'Gochi Hand', 'lucida grande', sans-serif;
+  font-size: 24px;
+  background: url(images/water-pattern.png);
+  color: #544444;
+  
+}
+
+a { color: #4cb2b7; text-decoration: none }
+
+#main {
+  background-color: #FFF5F5;
+  width: 900px;
+  padding: 0 50px 50px;
+  margin: 50px auto;
+
+  -moz-box-shadow: 0 0 5px #88A;
+  -webkit-box-shadow: 0 0 5px #88A;
+  box-shadow: 0 0 5px #88A;
+}
+
+#header {
+  padding: 20px 0;
+}
+
+#footer {
+  color: #AAA0A0;
+  margin-top: 20px;
+  text-align: right;
+  font-size: 0.7em;
+}
+
+#logo {
+  text-align: center;
+  margin: auto;
+  float: left;
+}
+
+h1 {
+  margin-left: 20px;
+  line-height: 2.0em;
+  float: left;
+}
+
+#content {
+  padding-top: 10px;
+  clear: both;
+}
+
+#nav {
+  float: right;
+  margin: 0;
+  padding: 0;
+  margin-top: -60px;
+  margin-right: -100px;
+  list-style: none;
+}
+
+#nav a {
+  color: #544444;
+}
+#nav li {
+  background: #FFF5F5;
+  margin: 0 10px;
+  padding: 0 10px;
+  display: inline;
+
+  -moz-box-shadow: 0 0 5px #88A;
+  -webkit-box-shadow: 0 0 5px #88A;
+  box-shadow: 0 0 5px #88A;
+}
+li#last-nav { margin-right: 50px}
+
+
+h1 {
+  color: #655555;
+  text-shadow: 0px 2px 0px #e5eeee;
+}
+
+#more-info {
+  font-size: 1.2em;
+}
+
+.section {
+  overflow: hidden;
+}
+
+.left {
+  margin: 10px 20px 10px 0;
+  float: left;
+}
+
+.right {
+  margin: 10px 0 10px 20px;
+  float: right;
+}
+
+ol#acronym {
+  margin-top: 0;
+  font-size: 1.2em;
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
