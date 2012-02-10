@@ -95,7 +95,7 @@ h1 {
   float: right;
 }
 
-ol#acronym {
+ul#acronym {
   margin-top: 0;
   font-size: 1.2em;
   list-style: none;
