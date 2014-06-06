@@ -1,10 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.3.6)
     rack (1.5.2)
+    rack-canonical-host (0.1.0)
+      addressable
+      rack (~> 1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rack
+  rack-canonical-host (~> 0.1.0)
