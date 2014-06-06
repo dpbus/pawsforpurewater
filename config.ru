@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'rack/canonical_host'
 
 use Rack::Static, 
   urls: ['/images', '/css'], 
