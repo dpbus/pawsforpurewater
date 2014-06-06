@@ -1,3 +1,5 @@
+require 'rubygems'
+
 use Rack::Static, 
   urls: ['/images', '/css'], 
   root: 'public',
