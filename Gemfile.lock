@@ -16,5 +16,8 @@ DEPENDENCIES
   rack
   rack-canonical-host (~> 0.1.0)
 
+RUBY VERSION
+   ruby 2.7.2p137
+
 BUNDLED WITH
    2.1.4
