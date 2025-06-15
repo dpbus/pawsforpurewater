@@ -1,7 +1,7 @@
 source "https://rubygems.org"
-ruby '3.2.2'
+ruby '3.4.3'
 
-gem 'rack', '~> 3.0', '>= 3.0.8'
-gem 'rack-canonical-host', '~> 1.2'
+gem 'rack', '~> 3.1', '>= 3.1.16'
+gem 'rack-canonical-host', '~> 1.3'
 
-gem 'puma', '~> 6.3'
+gem 'puma', '~> 6.6'
